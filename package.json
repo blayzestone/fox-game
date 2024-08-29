@@ -1,7 +1,7 @@
 {
   "name": "fox-game",
   "version": "1.0.0",
-  "description": "Hello! These are the various steps for the [fox game project][site] as outlined for [Frontend Masters][fem]. You'll want to pop over there for the lessons. [Here][game] is a deployed version of the final game.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
